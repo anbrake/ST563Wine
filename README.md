@@ -10,3 +10,5 @@ This project was developed as a group. My specific contriutions were:
   + Multicollinearity and Black Box discussion in section 4.2.1 
 + Interpretability ideas 
 + Specifics about multicollinearity, including investegating VIF. 
+
+My code for models used in the final project, plus investegation of models not discussed in the final report included. 
